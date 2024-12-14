@@ -10,7 +10,7 @@ API_ID = int(os.environ.get("API_ID", "19593445"))
 API_HASH = os.environ.get("API_HASH", "f78a8ae025c9131d3cc57d9ca0fbbc30")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "7064434873"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "-7064434873"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://shresthxraj: xclSFwM27AGruC2f@telebotz.i5c1l.mongodb.net/?retryWrites=true&w=majority&")
 DB_NAME = os.environ.get("DB_NAME", "Telebotz")
 
